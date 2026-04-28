@@ -20,16 +20,6 @@
 
 <br>
 
-<div align="center">
-  <p>🎓 <b>Information Systems (S1) Student | Institut Teknologi Del</b></p>
-  <p>💻 Focusing on <b>Object-Oriented Programming (Java)</b>, System-level C, and Software Architecture.</p>
-  <p>🎨 Passionate about <b>UI/UX Design</b>, User Persona/Journey Mapping, and Business Process Modeling.</p>
-  <p>🎥 Sharing insights and tips as a <b>Tech & Education Content Creator</b>.</p>
-  <p>🎤 <i>Fun fact:</i> When I'm not debugging code or wireframing in Figma, you can find me singing in the choir, recording song covers, or managing multimedia projects at BEM! 🎶</p>
-</div>
-
-<br>
-
 <p align="center">
   <b>🛠️ Tech Stack & Tools</b><br><br>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
