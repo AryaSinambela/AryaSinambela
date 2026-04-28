@@ -1,21 +1,21 @@
 <p align="center">
   <a href="https://github.com/AryaSinambela">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0CF761&height=200&section=header&text=Arya%20Sinambela&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff" alt="Arya Sinambela" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=888888&height=200&section=header&text=Arya%20Sinambela&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff" alt="Arya Sinambela" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=0CF761&center=true&vCenter=true&width=600&separator=%3C&lines=Information+Systems+Student+at+IT+Del" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=888888&center=true&vCenter=true&width=600&separator=%3C&lines=Information+Systems+Student+at+IT+Del;Java+%26+C+Developer;UI%2FUX+%26+Systems+Analysis+Enthusiast;Tech+%26+Edu+Content+Creator" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="URL_YOUTUBE_KAMU"><img width="32px" alt="Youtube" title="YouTube Content Creator" src="https://img.icons8.com/?size=100&id=37326&format=png&color=08FF2E"/></a>
+  <a href="URL_YOUTUBE_KAMU"><img width="32px" alt="Youtube" title="YouTube Content Creator" src="https://img.icons8.com/?size=100&id=37326&format=png&color=888888"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="URL_TIKTOK_KAMU"><img width="32px" alt="TikTok" title="TikTok Tech & Edu" src="https://img.icons8.com/?size=100&id=118638&format=png&color=08FF2E"/></a>
+  <a href="URL_TIKTOK_KAMU"><img width="32px" alt="TikTok" title="TikTok Tech & Edu" src="https://img.icons8.com/?size=100&id=118638&format=png&color=888888"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="URL_LINKEDIN_KAMU"><img width="32px" alt="LinkedIn" title="LinkedIn Profile" src="https://img.icons8.com/?size=100&id=8808&format=png&color=08FF2E"/></a>
+  <a href="URL_LINKEDIN_KAMU"><img width="32px" alt="LinkedIn" title="LinkedIn Profile" src="https://img.icons8.com/?size=100&id=8808&format=png&color=888888"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="URL_PORTFOLIO_ATAU_FIGMA"><img width="32px" alt="Portfolio" title="UI/UX Portfolio" src="https://img.icons8.com/?size=100&id=59813&format=png&color=08FF2E"></a>
+  <a href="URL_PORTFOLIO_ATAU_FIGMA"><img width="32px" alt="Portfolio" title="UI/UX Portfolio" src="https://img.icons8.com/?size=100&id=59813&format=png&color=888888"></a>
 </p>
 
 <br>
@@ -40,5 +40,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&bg_color=2d2d2d&title_color=ffffff&text_color=b3b3b3&icon_color=888888&show_icons=true&hide_border=true&count_private=true" />
 </p>
