@@ -66,7 +66,7 @@ An energetic **Information Systems undergraduate student** at Institut Teknologi
 
 ### 📊 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME_HERE&show_icons=true&theme=radical" alt="Arya's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_ANDA&show_icons=true&theme=radical" alt="Statistik GitHub AryaSinambela" />
 </p>
 
 ---
