@@ -1,17 +1,33 @@
-# Hi there, I'm Arya Pratama Sinambela 👋
+<div align="center">
 
-An energetic **Information Systems undergraduate student** at Institut Teknologi Del with a solid foundation in software development, database management, and UI/UX design. I love bridging business requirements with technical execution to build efficient digital solutions.
+<!-- Banner Atas: Gelombang Air Terbuka -->
+<img src="https://capsule-render.vercel.app/type=waving&color=0078d4&height=120&section=header" width="100%" alt="Header Wave" />
 
----
+# Halo semua, Saya Arya Pratama Sinambela 👋
 
-### 🚀 About Me
-- 🎓 **Education:** Information Systems Student at Institut Teknologi Del (2024 - 2028)
-- 📍 **Based in:** Pematangsiantar, North Sumatra, Indonesia
-- 💼 **Interests:** Backend Development, Systems Analysis (SAD/BPM), UI/UX Design, and Digital Media
-- ⚡ **Fun Fact:** Aside from coding and design, I'm actively involved in campus multimedia management and love contributing through music as a choir member!
+### 🎓 Mahasiswa Sistem Informasi di Institut Teknologi Del
 
 ---
 
+### 🛠️ Alat Kerja yang Sering Saya Gunakan
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,postgres,figma,html,css,vscode,git,github,canva,capcut" alt="Tools" />
+  </a>
+</p>
+
+---
+
+<!-- Animasi Kapal Terombang-ambing di Atas Gelombang Air -->
+<p align="center">
+  <img src="https://images.squarespace-cdn.com/content/v1/5526cfc1e4b09efb4f4c2c51/1513271701399-4T29F8TOWUP1SOHV43N3/A+Ship+In+A+Storm.gif" width="300" alt="Kapal Terombang Ambing" />
+</p>
+
+<!-- Banner Bawah: Gelombang Penutup -->
+<img src="https://capsule-render.vercel.app/type=waving&color=0078d4&height=100&section=footer" width="100%" alt="Footer Wave" />
+
+</div>
 ### 🛠️ Tech Stack & Tools
 
 <table>
@@ -43,31 +59,10 @@ An energetic **Information Systems undergraduate student** at Institut Teknologi
   </tr>
 </table>
 
----
-
-### 📁 Featured Projects
-
-#### ☕ Backend & Databases
-- **Del-Laundry Management System**
-  - *Description:* A desktop-based application designed to automate laundry business operations. Built entirely using Java to implement core Object-Oriented Programming (OOP) principles.
-  - *Tech Stack:* Java, PostgreSQL, pgAdmin 4.
-- **Hotel Reservation System**
-  - *Description:* A backend application utilizing advanced multithreading and synchronized methods to handle concurrent guest room bookings efficiently without race conditions.
-  - *Tech Stack:* Java Core.
-
-#### 🎨 Systems Analysis & UI/UX Design
-- **Childhood Health-Tracking Application Prototype**
-  - *Description:* End-to-end design process beginning with Business Process Management (BPM) analysis to map user journeys, followed by crafting interactive, high-fidelity mobile UI/UX wireframes.
-  - *Tools:* Figma, Use Case & Sequence Diagrams.
-- **System Architecture Planning (Waterfall Model)**
-  - *Description:* Executed Systems Analysis and Design (SAD) projects transforming raw user requirements into comprehensive system behavior maps using detailed Use Case Scenarios and database schemas.
-
----
 
 ### 📊 GitHub Stats
 ![Statistik GitHub Arya](https://github-readme-stats.vercel.app/api?username=AryaSinambela&show_icons=true&theme=radical)
 
----
 
 ### 🤝 Connect with Me
 - 📧 **Email:** aryasinambela26@gmail.com
