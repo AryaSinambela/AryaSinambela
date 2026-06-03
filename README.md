@@ -1,10 +1,14 @@
 <div align="center">
 
 <!-- Banner Atas: Gelombang Air -->
-<img src="https://capsule-render.vercel.app/type=waving&color=0078d4&height=120&section=header" width="100%" alt="Header Wave" />
+<img src="https://capsule-render.vercel.app/type=waving&color=08FF2E&height=120&section=header" width="100%" alt="Header Wave" />
 
 # Halo semua, Saya Arya Pratama Sinambela 👋
-### 🎓 Mahasiswa Sistem Informasi di Institut Teknologi Del
+
+<!-- Animasi Teks Ketik (Typing SVG) dengan Warna Hijau Neon Senada -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=08FF2E&center=true&vCenter=true&width=500&lines=Information+Systems+Student;Institut+Teknologi+Del" alt="Typing SVG" />
+</p>
 
 ---
 
@@ -21,20 +25,21 @@
 ### 📊 Statistik GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AryaSinambela&show_icons=true&theme=radical" alt="Statistik GitHub Arya" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AryaSinambela&show_icons=true&theme=dark&icon_color=08FF2E&text_color=ffffff&title_color=08FF2E" alt="Statistik GitHub Arya" />
 </p>
 
 ---
 
 ### 🤝 Mari Terhubung!
 
+<!-- Ikon Media Sosial dengan Efek Warna Hijau Neon Senada -->
 <p align="center">
   <a href="mailto:aryasinambela26@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img width="35px" alt="Email" title="Email" src="https://img.icons8.com/?size=100&id=12580&format=png&color=08FF2E"/>
   </a>
-  &nbsp;&nbsp;
+  &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.linkedin.com/in/arya-pratama-sinambela">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img width="35px" alt="LinkedIn" title="LinkedIn" src="https://img.icons8.com/?size=100&id=8808&format=png&color=08FF2E"/>
   </a>
 </p>
 
@@ -46,6 +51,6 @@
 </p>
 
 <!-- Banner Bawah: Gelombang Penutup -->
-<img src="https://capsule-render.vercel.app/type=waving&color=0078d4&height=100&section=footer" width="100%" alt="Footer Wave" />
+<img src="https://capsule-render.vercel.app/type=waving&color=08FF2E&height=100&section=footer" width="100%" alt="Footer Wave" />
 
 </div>
