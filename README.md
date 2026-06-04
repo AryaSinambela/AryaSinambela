@@ -1,4 +1,4 @@
-# Halo semua! 👋 Selamat datang di profil saya
+
 
 <p align="center">
   <!-- Animasi Header Gelombang Laut Modern -->
@@ -10,9 +10,7 @@
 * **Institusi:** Institut Teknologi Del (IT Del)
 * **Fokus:** Mahasiswa S1 Sistem Informasi yang berfokus pada pengembangan perangkat lunak, database manajemen, dan desain kreatif multimedia.
 
----
-
-### 🛠️ Aplikasi & Teknologi yang Sering Digunakan
+Aplikasi & Teknologi yang Sering Digunakan
 
 ####  Programming & Databases
 <p align="left">
@@ -30,7 +28,7 @@
   <img src="https://img.shields.io/badge/pgAdmin4-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="pgAdmin 4" />
 </p>
 
-#### 🎨 Design & Multimedia Production
+#### Design & Multimedia Production
 <p align="left">
   <!-- Figma -->
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
@@ -39,8 +37,6 @@
   <!-- CapCut -->
   <img src="https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white" alt="CapCut" />
 </p>
-
----
 
 ###  Hubungi Saya / Media Sosial
 
@@ -61,7 +57,7 @@ Mari terhubung! Kamu bisa menemukan saya di platform berikut:
   </a>
 </p>
 
----
+
 
 ### Statistik Aktivitas GitHub
 
