@@ -61,7 +61,7 @@
   <sub><i>"Mengarungi lautan kode, menerjang badai tantangan teknologi."</i></sub>
 
   <div align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=1000&color=007ACC&center=true&vCenter=true&width=550&lines=System.out.println(%22Mengarungi+Lautan+Kode...%22);;while(true)+%7B+keepLearning();+%7D;;SELECT+*+FROM+future_success+WHERE+effort+%3D+100;" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=1000&color=007ACC&center=true&vCenter=true&width=550&lines=_System.out.println(%22Mengarungi+Lautan+Kode...%22);;while(true)+%7B+keepLearning();+%7D;;SELECT+*+FROM+future_success+WHERE+effort+%3D+100;" alt="Typing Animation" />
   </div>
   
 </div>
