@@ -49,13 +49,14 @@
   </a>
 
   <br><br><br>
+  
+  <div align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=1000&color=007ACC&center=true&vCenter=true&width=550&lines=_System.out.println(%22Mengarungi+Lautan+Kode...%22);;while(true)+%7B+keepLearning();+%7D;;_SELECT+*+FROM+future_success+WHERE+effort+%3D+100;" alt="Typing Animation" />
+  </div>
+  
 
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXN6cmNjdndvN3Znd3N0OHpndW90ZzVtcHlsamI4M3BtYWp5bWZiOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LMcAt5X0X9f1K/giphy.gif" width="150px" alt="Kapal Terombang Ambing" />
   <br>
   <sub><i>"Mengarungi lautan kode, menerjang badai tantangan teknologi."</i></sub>
 
-  <div align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=1000&color=007ACC&center=true&vCenter=true&width=550&lines=_System.out.println(%22Mengarungi+Lautan+Kode...%22);;while(true)+%7B+keepLearning();+%7D;;_SELECT+*+FROM+future_success+WHERE+effort+%3D+100;" alt="Typing Animation" />
-  </div>
-  
 </div>
