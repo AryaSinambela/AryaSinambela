@@ -10,8 +10,6 @@
   </p>
 </div>
 
-<hr>
-
 <div align="center">
   <h3>🛠️ Tech Stack & Tools</h3>
   
@@ -31,14 +29,10 @@
   <img src="https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white" alt="CapCut" />
 </div>
 
-<hr>
-
 <div align="center">
   <h3>📊 Statistik Aktivitas GitHub</h3>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AryaSinambela&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
 </div>
-
-<hr>
 
 <div align="center">
   <h3>🌐 Mari Terhubung!</h3>
