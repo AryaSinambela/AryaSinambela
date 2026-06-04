@@ -11,7 +11,7 @@
 </div>
 
 <div align="center">
-  <h3>🛠️ Tech Stack & Tools</h3>
+  <h3> Tech Stack & Tools</h3>
   
   <h4> Programming & Databases</h4>
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
@@ -35,7 +35,7 @@
 </div>
 
 <div align="center">
-  <h3> Mari Terhubung!</h3>
+  <h3> Sosial Media </h3>
   <a href="https://linkedin.com/in/AryaSinambela" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
