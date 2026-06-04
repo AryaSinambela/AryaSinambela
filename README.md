@@ -1,8 +1,5 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=007ACC&height=220&section=header&text=Arya%20Pratama%20Sinambela&fontSize=40&animation=fadeIn&fontColor=ffffff" width="100%" alt="Header Wave" />
-
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=1000&color=007ACC&center=true&vCenter=true&width=550&lines=System.out.println(%22Mengarungi+Lautan+Kode...%22);;while(true)+%7B+keepLearning();+%7D;;SELECT+*+FROM+future_success+WHERE+effort+%3D+100;" alt="Typing Animation" />
-  
   <br><br>
   
   <h3>🎓 Tentang Saya</h3>
@@ -62,4 +59,6 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXN6cmNjdndvN3Znd3N0OHpndW90ZzVtcHlsamI4M3BtYWp5bWZiOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LMcAt5X0X9f1K/giphy.gif" width="150px" alt="Kapal Terombang Ambing" />
   <br>
   <sub><i>"Mengarungi lautan kode, menerjang badai tantangan teknologi."</i></sub>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=1000&color=007ACC&center=true&vCenter=true&width=550&lines=System.out.println(%22Mengarungi+Lautan+Kode...%22);;while(true)+%7B+keepLearning();+%7D;;SELECT+*+FROM+future_success+WHERE+effort+%3D+100;" alt="Typing Animation" />
+  
 </div>
