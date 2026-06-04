@@ -6,7 +6,7 @@
   <p>
     <b>Mahasiswa S1 Sistem Informasi (Semester 4) | Institut Teknologi Del</b><br>
     Fokus pada <i>Software Engineering</i> (terutama Java OOP), Manajemen Basis Data, dan UI/UX Design.<br>
-    Aktif berkreasi dalam produksi desain digital sebagai anggota Divisi Multimedia BEM.
+    Aktif berkreasi dalam produksi desain digital Di canva dan Figma
   </p>
 </div>
 
