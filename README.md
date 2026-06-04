@@ -1,13 +1,5 @@
 <div align="center">
 
-<!-- ANIMASI UTAMA ATAS: Garis Grid Tech Cyberpunk -->
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZpcTdoc2F4cHphM3I3a3dzNG5pYWpsYmg3cm4wcmR6MHV2emQ5ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7bu3XilJ5BOiSGic/giphy.gif" width="100%" height="50" style="object-fit: cover;" alt="Grid Line" />
-
-# Halo semua, Saya Arya Pratama Sinambela 👋
-### 🎓 Mahasiswa Sistem Informasi di Institut Teknologi Del
-
-<br />
-
 <!-- ANIMASI UTAMA: Robot Futuristik Berjalan -->
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbms0eW1wYTh6amN0MWh0MmswZnd6Mms0MndvZnRnbXpxdjFwZzNlayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKwBiaXRE7C8NWM/giphy.gif" width="220" alt="Robot Berjalan" />
