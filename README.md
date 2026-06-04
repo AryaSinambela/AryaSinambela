@@ -13,7 +13,7 @@
 <div align="center">
   <h3>🛠️ Tech Stack & Tools</h3>
   
-  <h4>💻 Programming & Databases</h4>
+  <h4> Programming & Databases</h4>
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
@@ -23,19 +23,19 @@
 
   <br>
 
-  <h4>🎨 Design & Multimedia Production</h4>
+  <h4> Design & Multimedia Production</h4>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
   <img src="https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white" alt="CapCut" />
 </div>
 
 <div align="center">
-  <h3>📊 Statistik Aktivitas GitHub</h3>
+  <h3> Statistik Aktivitas GitHub</h3>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AryaSinambela&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
 </div>
 
 <div align="center">
-  <h3>🌐 Mari Terhubung!</h3>
+  <h3> Mari Terhubung!</h3>
   <a href="https://linkedin.com/in/AryaSinambela" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
