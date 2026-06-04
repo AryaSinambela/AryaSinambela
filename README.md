@@ -1,5 +1,4 @@
 <div align="center">
-  <!-- Animasi Header Gelombang Laut Modern -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=007ACC&height=220&section=header&text=Arya%20Pratama%20Sinambela&fontSize=40&animation=fadeIn&fontColor=ffffff" width="100%" alt="Header Wave" />
 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=1000&color=007ACC&center=true&vCenter=true&width=550&lines=System.out.println(%22Mengarungi+Lautan+Kode...%22);;while(true)+%7B+keepLearning();+%7D;;SELECT+*+FROM+future_success+WHERE+effort+%3D+100;" alt="Typing Animation" />
@@ -37,11 +36,10 @@
 
 <hr>
 
-<!-- BAGIAN YANG DIPERBAIKI: Menggunakan tema tokyonight yang stabil tanpa modifikasi warna manual -->
 <div align="center">
   <h3>📊 Statistik Aktivitas GitHub</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=AryaSinambela&show_icons=true&theme=tokyonight&locale=id" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AryaSinambela&theme=tokyonight" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AryaSinambela&show_icons=true&theme=tokyonight&locale=id&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AryaSinambela&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
 </div>
 
 <hr>
