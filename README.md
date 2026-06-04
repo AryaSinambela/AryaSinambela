@@ -35,6 +35,7 @@
 ---
 
 <p align="center">
+  <br/>
   <h2>Hubungi Saya / Media Sosial</h2>
   Mari terhubung! Kamu bisa menemukan saya di platform berikut:<br/><br/>
   <a href="https://www.tiktok.com/@USERNAME_TIKTOK_KAMU" target="_blank">
@@ -51,6 +52,7 @@
 ---
 
 <p align="center">
+    <br/>
   <h2>Statistik Aktivitas GitHub</h2>
   <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_GITHUB_KAMU&show_icons=true&theme=onedark&locale=id" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME_GITHUB_KAMU&theme=onedark" alt="GitHub Streak" width="48%" />
