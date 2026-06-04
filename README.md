@@ -44,6 +44,7 @@
 
 <hr>
 
+<!-- PERBAIKAN TOTAL: Bagian Media Sosial Rata Tengah Sempurna -->
 <p align="center">
   <h2>🌐 Hubungi Saya / Media Sosial</h2>
   Mari terhubung! Kamu bisa menemukan saya di platform berikut:<br/><br/>
@@ -51,10 +52,12 @@
   <a href="https://www.tiktok.com/@AryaSinambela" target="_blank">
     <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
   </a>
+  &nbsp;
   <!-- YouTube -->
   <a href="https://www.youtube.com/@AryaSinambela" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
+  &nbsp;
   <!-- LinkedIn -->
   <a href="https://linkedin.com/in/AryaSinambela" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -80,7 +83,7 @@
 
 <hr>
 
-<!-- ANIMASI TAMBAHAN BARU: Typing Text Bertema Coding & Laut (Langsung Aktif) -->
+<!-- ANIMASI TAMBAHAN BARU: Typing Text Bertema Coding & Laut -->
 <p align="center">
   <h2>🚀 Status Berlayar</h2>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=1000&color=007ACC&center=true&vCenter=true&width=550&lines=System.out.println(%22Mengarungi+Lautan+Kode...%22);;while(true)+%7B+keepLearning();+%7D;;SELECT+*+FROM+future_success+WHERE+effort+%3D+100;" alt="Typing Animation" />
