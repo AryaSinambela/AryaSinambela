@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=007ACC&height=220&section=header&text=Arya%20Pratama%20Sinambela&fontSize=40&animation=fadeIn&fontColor=ffffff" width="100%" alt="Header Wave" />
   <br><br>
   
-  <h3>🎓 Tentang Saya</h3>
+  <h3>🎓 Tentang Saya 🎓</h3>
   <p>
     <b>Mahasiswa S1 Sistem Informasi (Semester 4) | Institut Teknologi Del</b><br>
     Fokus pada <i>Software Engineering</i> (terutama Java OOP), Manajemen Basis Data, dan UI/UX Design.<br>
