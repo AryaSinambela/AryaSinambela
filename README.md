@@ -1,14 +1,11 @@
 <div align="center">
 
-<!-- Banner Atas: Gelombang Air -->
-<img src="https://capsule-render.vercel.app/type=waving&color=08FF2E&height=120&section=header" width="100%" alt="Header Wave" />
+<!-- Banner Atas: Gelombang Air Stabil -->
+<img src="https://raw.githubusercontent.com/kanye-render/kanye-render/main/assets/waving-green.svg" width="100%" alt="Header Wave" />
 
 # Halo semua, Saya Arya Pratama Sinambela 👋
 
-<!-- Animasi Teks Ketik (Typing SVG) dengan Warna Hijau Neon Senada -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=08FF2E&center=true&vCenter=true&width=500&lines=Information+Systems+Student;Institut+Teknologi+Del" alt="Typing SVG" />
-</p>
+### 🎓 Mahasiswa Sistem Informasi di Institut Teknologi Del
 
 ---
 
@@ -16,7 +13,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,postgres,figma,html,css,vscode,git,github,canva,capcut" alt="Tools" />
+    <img src="https://skillicons.dev/icons?i=java,postgres,figma,html,css,vscode,git,github" alt="Tools" />
   </a>
 </p>
 
@@ -32,7 +29,6 @@
 
 ### 🤝 Mari Terhubung!
 
-<!-- Ikon Media Sosial dengan Efek Warna Hijau Neon Senada -->
 <p align="center">
   <a href="mailto:aryasinambela26@gmail.com">
     <img width="35px" alt="Email" title="Email" src="https://img.icons8.com/?size=100&id=12580&format=png&color=08FF2E"/>
@@ -45,12 +41,12 @@
 
 <br />
 
-<!-- Animasi Kapal Terombang-ambing di Atas Gelombang Air -->
-<p align="center" style="margin-bottom: -20px;">
-  <img src="https://images.squarespace-cdn.com/content/v1/5526cfc1e4b09efb4f4c2c51/1513271701399-4T29F8TOWUP1SOHV43N3/A+Ship+In+A+Storm.gif" width="280" alt="Kapal Terombang Ambing" />
+<!-- Animasi Kapal Terombang-ambing Berjalan Stabil -->
+<p align="center" style="margin-bottom: -10px;">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZpcTdoc2F4cHphM3I3a3dzNG5pYWpsYmg3cm4wcmR6MHV2emQ5ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7bu3XilJ5BOiSGic/giphy.gif" width="250" alt="Kapal Terombang Ambing" />
 </p>
 
-<!-- Banner Bawah: Gelombang Penutup -->
-<img src="https://capsule-render.vercel.app/type=waving&color=08FF2E&height=100&section=footer" width="100%" alt="Footer Wave" />
+<!-- Banner Bawah: Gelombang Air Stabil -->
+<img src="https://raw.githubusercontent.com/kanye-render/kanye-render/main/assets/waving-green.svg" width="100%" alt="Footer Wave" />
 
 </div>
