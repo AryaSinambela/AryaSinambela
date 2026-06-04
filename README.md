@@ -1,5 +1,14 @@
-<div align="center">
 
+
+<p align="center">
+  <!-- Animasi Gelombang & Kapal (Tema Laut/Coding) -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Welcome%20to%20My%20Space&fontSize=40&animation=fadeIn" width="100%" alt="Header Wave" />
+</p>
+
+<p align="center">
+  <!-- Subtitle Dinamis / Animasi Typing -->
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=onedark&column=7" alt="Trophies" /></a>
+</p>
 <!-- ANIMASI UTAMA: Robot Futuristik Berjalan -->
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbms0eW1wYTh6amN0MWh0MmswZnd6Mms0MndvZnRnbXpxdjFwZzNlayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKwBiaXRE7C8NWM/giphy.gif" width="220" alt="Robot Berjalan" />
